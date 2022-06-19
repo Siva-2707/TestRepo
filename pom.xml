@@ -39,6 +39,9 @@
             </goals>
           </execution>
         </executions>
+		<configuration>
+			<mainClass>com.siva.App<mainClass>
+		</configuration>
       </plugin>
       </plugins>
     </pluginManagement>
