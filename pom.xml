@@ -40,7 +40,7 @@
           </execution>
         </executions>
 		<configuration>
-			<mainClass>com.siva.App<mainClass>
+			<mainClass>com.siva.App</mainClass>
 		</configuration>
       </plugin>
       </plugins>
